@@ -1,0 +1,7 @@
+{
+    "Hotels": {
+        "name": { "string": {}},
+        "rating": { "int": { "min": 0, "max": 5 }},
+        "allowsPet": { "boolean": {} }
+    } 
+}
